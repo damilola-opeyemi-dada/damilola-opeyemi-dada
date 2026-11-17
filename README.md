@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Damilola Opeyemi Dada 👋
 
-<!--
-**damilola-opeyemi-dada/damilola-opeyemi-dada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring AI Training & Evaluation specialist building practical skills in AI 
+response evaluation, model benchmarking, and AI-powered applications.
 
-Here are some ideas to get you started:
+## 🔍 What I'm working on
+- AI Training & Evaluation portfolio (response rating, hallucination detection, model comparison)
+- Applied AI engineering with Python and LLM APIs
+- AI automation workflows for businesses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Skills
+Python · Git/GitHub · Prompt evaluation · Data annotation · (growing list)
+
+## 📂 Featured Projects
+*Coming soon — check the pinned repositories below.*
+
+## 📫 Contact
+https://www.linkedin.com/in/damilola-opeyemi-dada-10628a332 · dadadamilolaopeyemi@gmail.com
